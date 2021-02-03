@@ -1,0 +1,6 @@
+component = "SamplePy"
+myprofile =  "ihm"
+aws_region = "us-east-1"
+#lambda_function_name = "SamplePy"
+deployment_identifier = "Dev"
+runtime = "python3.6"
